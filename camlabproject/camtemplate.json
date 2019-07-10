@@ -1,0 +1,14 @@
+{
+   "name": "camlabproject",
+   "description": "Description for camlabproject.",
+   "type": "userCreated",
+   "manifest": {
+     "template_type": "Terraform",
+     "template_format": "HCL",
+     "template_provider": "Other"
+   },
+   "metadata": {
+     "displayName": "camlabproject",
+     "bullets": []
+   }
+ }
